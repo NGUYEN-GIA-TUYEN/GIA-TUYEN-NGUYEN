@@ -1,0 +1,6 @@
+#include<stdio.h>
+
+int main() {
+    float a = 12.3456; 
+    printf("a = %e", a);
+}
